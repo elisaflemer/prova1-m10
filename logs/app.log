@@ -1,0 +1,81 @@
+{"time": "2024-06-19 12:00:48,740", "name": "main", "level": "INFO", "message": "Starting up..."}
+{"time": "2024-06-19 12:03:18,679", "name": "main", "level": "INFO", "message": "Starting up..."}
+{"time": "2024-06-19 12:03:25,779", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Creating review', 'status': 'success', 'method': 'POST', 'url': '/review'}"}
+{"time": "2024-06-19 12:03:26,882", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Creating review', 'status': 'success', 'method': 'POST', 'url': '/review'}"}
+{"time": "2024-06-19 12:03:27,609", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Creating review', 'status': 'success', 'method': 'POST', 'url': '/review'}"}
+{"time": "2024-06-19 12:03:29,983", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Getting reviews', 'status': 'success', 'method': 'GET', 'url': '/review'}"}
+{"time": "2024-06-19 12:03:30,865", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Getting reviews', 'status': 'success', 'method': 'GET', 'url': '/review'}"}
+{"time": "2024-06-19 12:04:49,204", "name": "main", "level": "INFO", "message": "Starting up..."}
+{"time": "2024-06-19 12:04:51,289", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Getting reviews', 'status': 'success', 'method': 'GET', 'url': '/review'}"}
+{"time": "2024-06-19 12:04:52,733", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Getting reviews', 'status': 'success', 'method': 'GET', 'url': '/review'}"}
+{"time": "2024-06-19 12:04:53,345", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Getting reviews', 'status': 'success', 'method': 'GET', 'url': '/review'}"}
+{"time": "2024-06-19 12:04:53,929", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Getting reviews', 'status': 'success', 'method': 'GET', 'url': '/review'}"}
+{"time": "2024-06-19 12:04:56,204", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Creating review', 'status': 'success', 'method': 'POST', 'url': '/review'}"}
+{"time": "2024-06-19 12:04:56,770", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Creating review', 'status': 'success', 'method': 'POST', 'url': '/review'}"}
+{"time": "2024-06-19 12:04:57,459", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Creating review', 'status': 'success', 'method': 'POST', 'url': '/review'}"}
+{"time": "2024-06-19 12:04:59,527", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Getting reviews', 'status': 'success', 'method': 'GET', 'url': '/review'}"}
+{"time": "2024-06-19 12:05:00,132", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Getting reviews', 'status': 'success', 'method': 'GET', 'url': '/review'}"}
+{"time": "2024-06-19 12:05:00,857", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Getting reviews', 'status': 'success', 'method': 'GET', 'url': '/review'}"}
+{"time": "2024-06-19 12:05:01,644", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Getting reviews', 'status': 'success', 'method': 'GET', 'url': '/review'}"}
+{"time": "2024-06-19 12:05:02,467", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Getting reviews', 'status': 'success', 'method': 'GET', 'url': '/review'}"}
+{"time": "2024-06-19 12:05:03,086", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Getting reviews', 'status': 'success', 'method': 'GET', 'url': '/review'}"}
+{"time": "2024-06-19 12:05:53,283", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Getting review', 'id': 1, 'status': 'success', 'method': 'GET', 'url': '/review'}"}
+{"time": "2024-06-19 12:05:57,052", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Updating review', 'id': 1, 'status': 'success', 'method': 'PUT', 'url': '/review'}"}
+{"time": "2024-06-19 12:06:00,788", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Updating review', 'id': 1, 'status': 'success', 'method': 'PUT', 'url': '/review'}"}
+{"time": "2024-06-19 12:06:23,046", "name": "main", "level": "INFO", "message": "Starting up..."}
+{"time": "2024-06-19 12:06:25,347", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Creating review', 'status': 'success', 'method': 'POST', 'url': '/review'}"}
+{"time": "2024-06-19 12:06:27,556", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Updating review', 'id': 1, 'status': 'success', 'method': 'PUT', 'url': '/review'}"}
+{"time": "2024-06-19 12:06:28,724", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Updating review', 'id': 1, 'status': 'success', 'method': 'PUT', 'url': '/review'}"}
+{"time": "2024-06-19 12:06:32,292", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Getting reviews', 'status': 'success', 'method': 'GET', 'url': '/review'}"}
+{"time": "2024-06-19 12:07:18,485", "name": "main", "level": "INFO", "message": "Starting up..."}
+{"time": "2024-06-19 12:07:19,219", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Getting reviews', 'status': 'success', 'method': 'GET', 'url': '/review'}"}
+{"time": "2024-06-19 12:07:21,428", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Creating review', 'status': 'success', 'method': 'POST', 'url': '/review'}"}
+{"time": "2024-06-19 12:07:22,790", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Updating review', 'id': 1, 'status': 'success', 'method': 'PUT', 'url': '/review'}"}
+{"time": "2024-06-19 12:07:22,793", "name": "routers.reviews", "level": "ERROR", "message": "{'message': 'Error updating review', 'id': 1, 'status': 'error', 'method': 'PUT', 'url': '/review', 'error': "'Session' object has no attribute 'update'"}"}
+{"time": "2024-06-19 12:08:23,520", "name": "main", "level": "INFO", "message": "Starting up..."}
+{"time": "2024-06-19 12:08:27,672", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Creating review', 'status': 'success', 'method': 'POST', 'url': '/review'}"}
+{"time": "2024-06-19 12:08:29,227", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Updating review', 'id': 1, 'status': 'success', 'method': 'PUT', 'url': '/review'}"}
+{"time": "2024-06-19 12:08:29,250", "name": "routers.reviews", "level": "ERROR", "message": "{'message': 'Error updating review', 'id': 1, 'status': 'error', 'method': 'PUT', 'url': '/review', 'error': "Class 'builtins.int' is not mapped"}"}
+{"time": "2024-06-19 12:08:56,299", "name": "main", "level": "INFO", "message": "Starting up..."}
+{"time": "2024-06-19 12:08:58,585", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Creating review', 'status': 'success', 'method': 'POST', 'url': '/review'}"}
+{"time": "2024-06-19 12:08:59,949", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Updating review', 'id': 1, 'status': 'success', 'method': 'PUT', 'url': '/review'}"}
+{"time": "2024-06-19 12:08:59,964", "name": "routers.reviews", "level": "ERROR", "message": "{'message': 'Error updating review', 'id': 1, 'status': 'error', 'method': 'PUT', 'url': '/review', 'error': "Class 'builtins.int' is not mapped"}"}
+{"time": "2024-06-19 12:10:08,171", "name": "main", "level": "INFO", "message": "Starting up..."}
+{"time": "2024-06-19 12:10:08,285", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Creating review', 'status': 'success', 'method': 'POST', 'url': '/review'}"}
+{"time": "2024-06-19 12:10:09,612", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Updating review', 'id': 1, 'status': 'success', 'method': 'PUT', 'url': '/review'}"}
+{"time": "2024-06-19 12:10:09,635", "name": "routers.reviews", "level": "ERROR", "message": "{'message': 'Error updating review', 'id': 1, 'status': 'error', 'method': 'PUT', 'url': '/review', 'error': "Class 'builtins.int' is not mapped"}"}
+{"time": "2024-06-19 12:10:26,317", "name": "main", "level": "INFO", "message": "Starting up..."}
+{"time": "2024-06-19 12:10:26,619", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Creating review', 'status': 'success', 'method': 'POST', 'url': '/review'}"}
+{"time": "2024-06-19 12:10:28,800", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Updating review', 'id': 1, 'status': 'success', 'method': 'PUT', 'url': '/review'}"}
+{"time": "2024-06-19 12:10:28,822", "name": "routers.reviews", "level": "ERROR", "message": "{'message': 'Error updating review', 'id': 1, 'status': 'error', 'method': 'PUT', 'url': '/review', 'error': "Class 'builtins.int' is not mapped"}"}
+{"time": "2024-06-19 12:10:58,605", "name": "main", "level": "INFO", "message": "Starting up..."}
+{"time": "2024-06-19 12:10:59,047", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Creating review', 'status': 'success', 'method': 'POST', 'url': '/review'}"}
+{"time": "2024-06-19 12:11:01,569", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Updating review', 'id': 1, 'status': 'success', 'method': 'PUT', 'url': '/review'}"}
+{"time": "2024-06-19 12:11:01,572", "name": "routers.reviews", "level": "ERROR", "message": "{'message': 'Error updating review', 'id': 1, 'status': 'error', 'method': 'PUT', 'url': '/review', 'error': "'Review' object has no attribute 'update'"}"}
+{"time": "2024-06-19 12:12:19,781", "name": "main", "level": "INFO", "message": "Starting up..."}
+{"time": "2024-06-19 12:12:27,222", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Creating review', 'status': 'success', 'method': 'POST', 'url': '/review'}"}
+{"time": "2024-06-19 12:12:29,165", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Updating review', 'id': 1, 'status': 'success', 'method': 'PUT', 'url': '/review'}"}
+{"time": "2024-06-19 12:12:30,381", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Updating review', 'id': 1, 'status': 'success', 'method': 'PUT', 'url': '/review'}"}
+{"time": "2024-06-19 12:12:33,298", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Getting reviews', 'status': 'success', 'method': 'GET', 'url': '/review'}"}
+{"time": "2024-06-19 12:13:16,723", "name": "main", "level": "INFO", "message": "Starting up..."}
+{"time": "2024-06-19 12:13:17,475", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Creating review', 'status': 'success', 'method': 'POST', 'url': '/review'}"}
+{"time": "2024-06-19 12:13:20,017", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Updating review', 'id': 1, 'status': 'success', 'method': 'PUT', 'url': '/review'}"}
+{"time": "2024-06-19 12:13:20,950", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Updating review', 'id': 1, 'status': 'success', 'method': 'PUT', 'url': '/review'}"}
+{"time": "2024-06-19 12:14:56,093", "name": "main", "level": "INFO", "message": "Starting up..."}
+{"time": "2024-06-19 12:14:58,312", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Creating review', 'status': 'success', 'method': 'POST', 'url': '/review'}"}
+{"time": "2024-06-19 12:14:59,840", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Updating review', 'id': 1, 'status': 'success', 'method': 'PUT', 'url': '/review'}"}
+{"time": "2024-06-19 12:14:59,841", "name": "routers.reviews", "level": "ERROR", "message": "{'message': 'Error updating review', 'id': 1, 'status': 'error', 'method': 'PUT', 'url': '/review', 'error': "'Session' object has no attribute 'update'"}"}
+{"time": "2024-06-19 12:15:00,887", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Updating review', 'id': 1, 'status': 'success', 'method': 'PUT', 'url': '/review'}"}
+{"time": "2024-06-19 12:15:00,888", "name": "routers.reviews", "level": "ERROR", "message": "{'message': 'Error updating review', 'id': 1, 'status': 'error', 'method': 'PUT', 'url': '/review', 'error': "'Session' object has no attribute 'update'"}"}
+{"time": "2024-06-19 12:16:35,476", "name": "main", "level": "INFO", "message": "Starting up..."}
+{"time": "2024-06-19 12:16:41,838", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Creating review', 'status': 'success', 'method': 'POST', 'url': '/review'}"}
+{"time": "2024-06-19 12:16:43,429", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Updating review', 'id': 1, 'status': 'success', 'method': 'PUT', 'url': '/review'}"}
+{"time": "2024-06-19 12:16:43,441", "name": "routers.reviews", "level": "ERROR", "message": "{'message': 'Error updating review', 'id': 1, 'status': 'error', 'method': 'PUT', 'url': '/review', 'error': "'CreateReviewRequest' object has no attribute 'to_dict'"}"}
+{"time": "2024-06-19 12:17:52,080", "name": "main", "level": "INFO", "message": "Starting up..."}
+{"time": "2024-06-19 12:17:52,600", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Creating review', 'status': 'success', 'method': 'POST', 'url': '/review'}"}
+{"time": "2024-06-19 12:17:53,209", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Creating review', 'status': 'success', 'method': 'POST', 'url': '/review'}"}
+{"time": "2024-06-19 12:17:55,032", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Updating review', 'id': 1, 'status': 'success', 'method': 'PUT', 'url': '/review'}"}
+{"time": "2024-06-19 12:17:58,979", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Getting reviews', 'status': 'success', 'method': 'GET', 'url': '/review'}"}
+{"time": "2024-06-19 12:18:04,861", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Deleting review', 'id': 1, 'status': 'success', 'method': 'DELETE', 'url': '/review'}"}
+{"time": "2024-06-19 12:18:06,613", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Getting reviews', 'status': 'success', 'method': 'GET', 'url': '/review'}"}
+{"time": "2024-06-19 12:18:08,988", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Getting reviews', 'status': 'success', 'method': 'GET', 'url': '/review'}"}

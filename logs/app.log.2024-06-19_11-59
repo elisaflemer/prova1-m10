@@ -1,0 +1,3 @@
+{"time": "2024-06-19 11:59:10,038", "name": "main", "level": "INFO", "message": "Starting up..."}
+{"time": "2024-06-19 11:59:10,226", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Getting reviews', 'status': 'success', 'method': 'GET', 'url': '/review'}"}
+{"time": "2024-06-19 11:59:11,134", "name": "routers.reviews", "level": "INFO", "message": "{'message': 'Getting reviews', 'status': 'success', 'method': 'GET', 'url': '/review'}"}

@@ -1,0 +1,27 @@
+version: "3.8"
+
+services:
+
+  redis:
+      image: redis
+      container_name: redis
+      ports:
+        - "6379:6379"
+  app:
+    build: ./app
+    ports:
+      - "8003:8003"
+    container_name: app
+    volumes:
+      - ./logs:/app/logs
+    depends_on:
+      - redis
+
+  gateway:
+      build: ./gateway
+      ports:
+        - "80:80"
+      depends_on: 
+        - app
+
+  
