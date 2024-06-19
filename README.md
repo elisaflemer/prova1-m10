@@ -32,3 +32,7 @@ logging.basicConfig(level=logging.INFO, format=LOG_FORMAT)
 
 ## Vídeo
 
+https://github.com/elisaflemer/prova1-m10/assets/99259251/73dc2bf3-fc35-4288-974d-6495b9860112
+
+
+
