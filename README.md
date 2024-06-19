@@ -24,7 +24,7 @@ docker compose up
 
 A partir daí, as rotas estarão acessíveis a partir da URL `http://localhost/reviews`.
 
-Para acessar os logs, confira a pasta `logs`. Os arquivos estarão separados por timestamp de 1 em um 1 minuto. Para alterar o nível das mensagens do log, baste modificar o argumento na linha 18 do arquivo `app/logging_config.py`.
+Para acessar os logs, confira a pasta `logs`. Para alterar o nível das mensagens do log, baste modificar o argumento na linha 18 do arquivo `app/logging_config.py`.
 
 ```python
 logging.basicConfig(level=logging.INFO, format=LOG_FORMAT)
